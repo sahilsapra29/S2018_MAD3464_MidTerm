@@ -11,7 +11,7 @@ package c0738092_midterm_mads3464;
  */
 public class answersecond {
 public static int convert(String input){
-    Long B1=Long.valueOf(input.)longValue();
+    Long B1=Long.valueOf(input).longValue();
     int decimalNumber=0,i=0;
     long remainder;
     while (B1!=0)
