@@ -22,8 +22,6 @@ public class LambtonStringTools {
         for(m=p.length()-3;m>=0;m--){
             System.out.print(ch[m]);
         }
-        return p;
-        
     }
     
 }
