@@ -15,8 +15,9 @@ public class C0738092_Midterm_MADS3464 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        LambtonStringTools lst = new LambtonStringTools();
-    lst.reverse("Lambton");
+      LambtonStringTools.reverse("Lambton");
+      System.out.println("" +answersecond.convert("1000"));
+      System.out.println(answerthirdMaxOccurence.find("aaaabbbbccc"));
     }
     
 }
